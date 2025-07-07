@@ -13,7 +13,7 @@
 - Startup Innovation
 
 💻 Tech & Tools:
-Linux | Python | C | C++
+- Linux | Python | C | C++
 
 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/pamindu-jayasekara/)
