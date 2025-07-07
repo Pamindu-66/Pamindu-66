@@ -3,7 +3,7 @@
 🎓 I'm an undergraduate in Information Technology specializing in **Cyber Security** at SLIIT.
 
 🚀 I'm also an entrepreneur building:
-- 🎨 [Mandala.lk](https://www.instagram.com/mandala.lk) – Personalized Mandala Arts & gifts
+- 🎨 [Mandala.lk](https://www.instagram.com/shop.mandala.lk) – Personalized Mandala Arts & gifts
 - 🔖 [Stickinity](https://www.instagram.com/stickinity) – Laptop & creative stickers
 
 📲 Passionate about:
