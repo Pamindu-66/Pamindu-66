@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Pamindu 👋🏼👨🏽‍💻
 
-<!--
-**Pamindu-66/Pamindu-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate in Information Technology specializing in **Cyber Security** at SLIIT.
 
-Here are some ideas to get you started:
+🚀 I'm also an entrepreneur building:
+- 🎨 [Mandala.lk](https://www.instagram.com/mandala.lk) – Personalized Mandala Arts & gifts
+- 🔖 [Stickinity](https://www.instagram.com/stickinity) – Laptop & creative stickers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 Passionate about:
+- Digital Marketing
+- Social Media Strategy
+- Creative Design
+- Startup Innovation
+
+💻 Tech & Tools:
+Linux | Python | C | C++
+
+📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/pamindu-jayasekara/)
+- 📧 pamindu003@gmail.com
